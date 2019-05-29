@@ -1,7 +1,7 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "sitename": "Testlify",
+  "sitedescription": "Fun for all the peoples.",
+  "siteicon": "/images/uploads/bael-0.1.3update.jpg",
   "showmenu": true,
   "emailsignup": true,
   "altlayout": false,
